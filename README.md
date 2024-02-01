@@ -1,5 +1,5 @@
 # Autonomous Systems in Space Exploration
-## Video Demo  <br><br>[![Autonomous Systems in Space Exploration](https://img.youtube.com/vi/MYJkZDZIzyw/maxresdefault.jpg)](https://www.youtube.com/watch?v=MYJkZDZIzyw)
+## Video Demo  <br><br>[![Autonomous Systems in Space Exploration](https://img.youtube.com/vi/MYJkZDZIzyw/maxresdefault.jpg)](https://youtu.be/g_DXwbpS3Ko?si=Jno0M2vVlsyIDow6)
 ## Description
 
 &emsp;&emsp;Rovers have been sent to Mars since 1997, performing tasks such as taking pictures and examining samples. Many solar-powered rovers have limited or nonexistent nocturnal operations like the Sojourner, which is known to not be able to turn or tilt its solar panels. Although rovers in the past pointed towards the equator, the median position to charge, this was simply a heuristic solution to efficient solar charging. This project aims to test a new solution: programming a mock rover to turn towards the Sun as the Sun’s position changes relative to Mars. The overall goal is to prove that continuous direct exposure to the Sun increases battery life and can allow for enhanced nocturnal operations if implemented on real rovers.
